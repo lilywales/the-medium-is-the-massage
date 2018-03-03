@@ -5,12 +5,10 @@
     <title>Lis page</title>
   </head>
   <body>
-    <h1>{{pageTitle}}</h1>
+    {{> header}}
     <p>
-      {{welcomeMessage}}
+      {{loudWords welcomeMessage}}
     </p>
-    <footer>
-    <p>Copyright {{currentYear}}</p>
-  </footer>
+    {{> footer}}
   </body>
 </html>

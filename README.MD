@@ -1,0 +1,1 @@
+In progress - An application created in Node.js that utilises the templating language Handlebars.js. Middleware that keeps track of how the server is working is featured. Extracts from Marshall McLuhan's The Medium is the Massage make up the content.
